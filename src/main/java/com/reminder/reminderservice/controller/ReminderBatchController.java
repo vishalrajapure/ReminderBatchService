@@ -16,6 +16,7 @@ import java.util.Map;
 @RequestMapping("/reminderbatch")
 public class ReminderBatchController {
 
+    // this is test code 
     @Autowired
     private ReminderBatchServiceImpl reminderBatchServiceImpl;
 
